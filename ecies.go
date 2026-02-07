@@ -1,4 +1,4 @@
-package keys
+package pqecies
 
 import (
 	"bytes"
