@@ -1,4 +1,4 @@
-package pqecies
+package pq_ecies
 
 import (
 	"bytes"
